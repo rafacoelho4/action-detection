@@ -1,0 +1,11 @@
+highway
+{'truck', 'person', 'car'}
+
+mall
+{'person'}
+
+school
+{'parking meter', 'person', 'backpack'}
+
+street
+{'umbrella', 'bus', 'person', 'car', 'truck'}

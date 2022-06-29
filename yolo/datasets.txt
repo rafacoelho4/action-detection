@@ -1,0 +1,4 @@
+http://viratdata.org/#getting-data
+https://data.world/datasets/camera
+http://www.cvpapers.com/datasets.html
+https://catalog.data.gov/dataset?tags=camera 
