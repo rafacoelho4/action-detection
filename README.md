@@ -1,12 +1,8 @@
 # Action Detection
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/rafacoelho4/action-detection?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/rafacoelho4/action-detection?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/rafacoelho4/action-detection?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/rafacoelho4/action-detection?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/rafacoelho4/action-detection?style=for-the-badge)
 
-<img src="exemplo-image.png" alt="exemplo imagem">
+<img src="image.png" alt="medio/img.jpg">
 
 > Action detection with opencv project and object classification using yolo
 
@@ -39,15 +35,15 @@ git clone https://github.com/rafacoelho4/action-detection.git
 
 Para usar <nome_do_projeto>, siga estas etapas:
 
-> simple
+### simple
 
 Execute the python file camera.py
 
-> medio
+### medio
 
 Run "motiondetection_webcam.py"
 
-> yolo
+### yolo
 
 ```
 cd yolo
