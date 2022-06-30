@@ -2,7 +2,7 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/rafacoelho4/action-detection?style=for-the-badge)
 
-<img src="image.png" alt="medio/img.jpg">
+![Alt text](medio/img.jpg?raw=true "Title")
 
 > Action detection with opencv project and object classification using yolo
 
